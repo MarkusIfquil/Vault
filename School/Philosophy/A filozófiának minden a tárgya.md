@@ -1,0 +1,1 @@
+A filozófia mindent vesz figyelemben, egy alap tudomány, és mindenbe belekérdez.

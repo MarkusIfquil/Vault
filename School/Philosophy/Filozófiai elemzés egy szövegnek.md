@@ -1,0 +1,1 @@
+Először kezdj egy kulcsszóval, ami összefoglalja a szöveget. Ezt a kulcsszavat bővítsd egy kulcsmondatra úgy, hogy az is összefoglalja.
